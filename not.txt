@@ -1,0 +1,13 @@
+Konu: Final Projesi Teslim Dosyası Hakkında
+
+Sayın Hocam,
+
+Üç Boyutlu Modelleme dersi kapsamındaki final projesi teslim dosyamı ekte bilgilerinize sunarım.
+
+Teslim klasörü içerisinde projenin render görseli (render.jpg) ve kaynak proje dosyası (final.blend) yer almaktadır. Ayrıca, proje dosyası farklı bir bilgisayarda açıldığında dosya yollarından kaynaklanabilecek kaplama kopuklukları (pembe doku hatası) yaşanmaması adına, projede kullanılan tüm görselleri de klasöre eklemiş bulunmaktayım.
+
+Değerlendirmelerinize arz ederim.
+
+Saygılarımla,
+
+Berkan Suçsuz 2212506045
